@@ -1,4 +1,4 @@
-import { sum } from './helpers.mjs';
+import { sum } from '../helpers/helpers.mjs';
 
 describe('Testing Sum Function', () => {
 	it('should return 5 + 5 = 10', () => {
